@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\bin\Debug\netcoreapp3.1\jumpstatement.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\jumpstatement\obj\Debug\netcoreapp3.1\jumpstatement.genruntimeconfig.cache
