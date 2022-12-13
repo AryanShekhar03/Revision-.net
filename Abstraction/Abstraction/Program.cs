@@ -26,6 +26,7 @@ public class Triangle : Shape
     {
         public static void Main(string[] args)
         {
+            //A parent class refrence variable can point to a drived class object.
             Shape shape = new Square();
             shape.draw();
             Shape shap = new Triangle();
