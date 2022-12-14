@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\bin\Debug\netcoreapp3.1\queque.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\queque\obj\Debug\netcoreapp3.1\queque.genruntimeconfig.cache
