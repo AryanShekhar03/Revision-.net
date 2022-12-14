@@ -1,0 +1,4 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
