@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\bin\Debug\netcoreapp3.1\exception.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\exception\obj\Debug\netcoreapp3.1\exception.genruntimeconfig.cache
