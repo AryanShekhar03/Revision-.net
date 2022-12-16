@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\Regex\obj\Debug\netcoreapp3.1\Regex.genruntimeconfig.cache
