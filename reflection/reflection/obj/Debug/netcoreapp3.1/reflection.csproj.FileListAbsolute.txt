@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\bin\Debug\netcoreapp3.1\reflection.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\reflection\reflection\obj\Debug\netcoreapp3.1\reflection.genruntimeconfig.cache
