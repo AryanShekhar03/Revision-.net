@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\bin\Debug\netcoreapp3.1\stackimplementation.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\stackimplementation\obj\Debug\netcoreapp3.1\stackimplementation.genruntimeconfig.cache
