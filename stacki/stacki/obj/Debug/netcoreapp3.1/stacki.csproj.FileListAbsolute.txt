@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.exe
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.deps.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\bin\Debug\netcoreapp3.1\stacki.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.dll
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.pdb
+C:\Users\Shivam Shekhar\source\repos\Revision\stacki\stacki\obj\Debug\netcoreapp3.1\stacki.genruntimeconfig.cache
